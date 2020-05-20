@@ -1,7 +1,9 @@
 // Your code here
 class Cat {
-conlet cat = new cat
-speak.
+  constructor(name, age) {
+    this.name = name;
+    this.sex = sex;
+  }
 }
 
 class Dog {}
