@@ -1,6 +1,7 @@
 // Your code here
 class Cat {
-let cat = new cat
+conlet cat = new cat
+speak.
 }
 
 class Dog {}
